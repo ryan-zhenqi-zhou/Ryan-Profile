@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ryan Zhenqi Zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student, Department of Geography
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: State University of New York at Buffalo
+  url: https://www.buffalo.edu/cas/geography/graduate-program/meet-our-students/Zhenqi-Zhou.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
