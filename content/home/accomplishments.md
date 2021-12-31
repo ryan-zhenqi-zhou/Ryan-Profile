@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-**Zhou Z.Q.**, Xu Z., Liu A.Q., Zhou S., Mu L., Zhang X. (2021) [Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic](https://github.com/ryan-zhenqi-zhou/Ryan-Profile/raw/master/papers/Mapping%20the%20accessibility%20of%20medical%20facilities%20of%20Wuhan%20during%20the%20COVID-19%20pandemic.pdf). International Journal of Geo-Information. 10(5), 318.
+**Zhou Z.Q.**, Xu Z., Liu A.Q., Zhou S., Mu L., Zhang X. (2021) [Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic](https://ryan-zhenqi-zhou.github.io/ijgi-10-00318.pdf). International Journal of Geo-Information. 10(5), 318.
 
 07. **Zhou Z.Q.**, Xu Z., Liu A.Q., Zhou S., Mu L., Zhang X. (2021) <a href="https://github.com/ryan-zhenqi-zhou/Ryan-Profile/blob/master/papers/ijgi-10-00318.pdf" target="_blank">Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic.</a>. International Journal of Geo-Information. 10(5), 318.
 
@@ -20,3 +20,7 @@ design:
 
 
 436234532453245432
+
+https://github.com/ryan-zhenqi-zhou/Ryan-Profile/blob/c7c027ab25e8e0535324381708edc4444cf0a564/papers/ijgi-10-00318.pdf
+
+ryan-zhenqi-zhou.github.io/Ryan-Profile/blob/master/papers/ijgi-10-00318.pdf
