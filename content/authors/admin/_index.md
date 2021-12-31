@@ -6,8 +6,8 @@ title: Ryan Zhenqi Zhou
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student, Research Assistant
-url: https://www.buffalo.edu/cas/geography/graduate-program/meet-our-students/Zhenqi-Zhou.html
+- role: Ph.D. Student, Research Assistant
+  url: https://www.buffalo.edu/cas/geography/graduate-program/meet-our-students/Zhenqi-Zhou.html
 
 # Organizations/Affiliations to show in About widget
 organizations:

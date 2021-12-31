@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Department of Geography, State University of New York at Buffalo
-    company_url: 'https://www.buffalo.edu/cas/geography/graduate-program/meet-our-students/Zhenqi-Zhou.html'
+    company_url: ''
     company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2021-08-15'
@@ -38,7 +38,7 @@ experience:
         
   - title: Spatial Data Analyst (Intern)
     company: MetroDataTech (MDT)
-    company_url: 'https://www.metrodata.cn/'
+    company_url: ''
     company_logo: org-MDT
     location: Shanghai, China
     date_start: '2020-08-01'
