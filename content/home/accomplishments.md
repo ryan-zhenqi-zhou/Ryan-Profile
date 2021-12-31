@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-**Zhou Z.Q.**, Xu Z., Liu A.Q., Zhou S., Mu L., Zhang X. (2021) [Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic]("papers/Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic.pdf"). International Journal of Geo-Information. 10(5), 318.
+**Zhou Z.Q.**, Xu Z., Liu A.Q., Zhou S., Mu L., Zhang X. (2021) [Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic](papers/Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic.pdf). International Journal of Geo-Information. 10(5), 318.
 
 
 234324234324234234356
