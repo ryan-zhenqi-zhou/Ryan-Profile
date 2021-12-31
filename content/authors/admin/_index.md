@@ -6,14 +6,14 @@ title: Ryan Zhenqi Zhou
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Ph.D. Student, Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Department of Geography
   url: https://www.buffalo.edu/cas/geography.html
 - name: State University of New York at Buffalo
-  url: https://www.buffalo.edu/cas/geography/graduate-program/meet-our-students/Zhenqi-Zhou.html
+  url: https://www.buffalo.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include GEOAI, Public Health, Urban Analytics.
