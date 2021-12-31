@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Geography
+  - course: Ph.D. in Geography
     institution: State University of New York at Buffalo, USA
     year: 2021
-  - course: ME in Landscape Architecture
+  - course: M.E. in Landscape Architecture
     institution: Nanjing Forestry University, China
     year: 2018
-  - course: BA in Landscape Gardening
+  - course: B.A. in Landscape Gardening
     institution: Zhejiang A&F University, China
     year: 2014
 
@@ -70,7 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ryan Zhenqi Zhou is a Ph.D. student in the Department of Geography at the State University of New York at Buffalo. His research focuses on health outcome prediction and understanding by leveraging human mobility data and geospatil image data, combined with spatial data science and existing AI models. He is interested in GEOAI, Public Health, Urban Analytics, Social Media and Big Data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at Nanjing Forestry University, and B.A. in Landscape Gardening at Zhejiang A&F University. Apart from studying, he likes Strength Training/Bodybuilding.
