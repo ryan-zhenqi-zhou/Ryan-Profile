@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Department of Geography, State University of New York at Buffalo
-    company_url: 'https://www.buffalo.edu/cas/geography/graduate-program/meet-our-students/Zhenqi-Zhou.html'
+    company_url: 'https://www.buffalo.edu/cas/geography.html'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2021-08-15'
