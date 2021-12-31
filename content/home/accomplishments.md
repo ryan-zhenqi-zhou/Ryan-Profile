@@ -11,8 +11,7 @@ design:
   columns: '2'
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
-23432423432
+2021  Zhou Z.Q.; Xu Z.; Liu A.Q.; Zhou S.; Mu L.; Zhang X. Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic. ISPRS Int.       J. Geo-Inf. 2021, 10(5), 318. https://doi.org/10.3390/ijgi10050318.
 
 
 234324234324234234356
