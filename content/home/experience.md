@@ -43,7 +43,11 @@ experience:
     location: Shanghai, China
     date_start: '2020-08-01'
     date_end: '2020-10-01'
-    description: Spatial Data Analysis
+    description: |2-
+        Projects:
+        
+        * Assessment of the land used for educational facilities in Pudong, Shanghai
+        * Digital analysis of urban space in the Future Science and Technology City, Hangzhou
 
 design:
   columns: '2'
