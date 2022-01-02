@@ -13,16 +13,16 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Conferences & Workshops
+  - name: Conferences
     url: '#conferences'
     weight: 40
-  - name: Grants & Awards
+  - name: Awards
     url: '#grands'
     weight: 50
   - name: Service
     url: '#service'
     weight: 60
-  - name: Medeia Coverage
+  - name: Media
     url: '#media'
     weight: 70
   - name: Contact
