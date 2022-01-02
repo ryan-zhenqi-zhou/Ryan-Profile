@@ -17,7 +17,7 @@ main:
     url: '#conferences'
     weight: 40
   - name: Awards
-    url: '#grands'
+    url: '#awards'
     weight: 50
   - name: Service
     url: '#service'

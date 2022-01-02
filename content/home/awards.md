@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...  'Accomplish&shy;ments'
-title: Grants & Awards
+title: Awards & Grants
 subtitle:
 weight: 70  # section position on page
 design:
@@ -11,6 +11,7 @@ design:
   columns: '2'
 ---
 
+8\. Outstanding graduate, by Nanjing Forestry University, 2021\
 7\. Funding ‘Postgraduate Research & Practice Innovation Program of Jiangsu Province <br /> &emsp; (KYCX20_0893)’, PI, by Education Department of Jiangsu, 2020\
 6\. National Scholarship, by Education Department of China, 2020\
 5\. The Candidate of National Top 10 Graduate Students of Academy of Forestry, by China <br /> &emsp; Education Association of Forestry, 2020\
