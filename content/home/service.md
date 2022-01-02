@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...  'Accomplish&shy;ments'
-title: Grants & Awards
+title: Service
 subtitle:
 weight: 80  # section position on page
 design:
