@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-* Member of [GISphere](https://gis-info.github.io/), GISalon, 2021-present.
+* Member of [GISphere](https://gis-info.github.io/), GISalon, 2021-present
 
 
 
