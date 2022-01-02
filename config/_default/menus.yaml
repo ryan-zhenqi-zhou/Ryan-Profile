@@ -14,16 +14,16 @@ main:
     url: '#publications'
     weight: 30
   - name: Conferences & Workshops
-    url: '#conferences and workshops'
+    url: '#conferences'
     weight: 40
   - name: Grants & Awards
-    url: '#grands and awards'
+    url: '#grands'
     weight: 50
   - name: Service
     url: '#service'
     weight: 60
   - name: Medeia Coverage
-    url: '#media coverage'
+    url: '#media'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
