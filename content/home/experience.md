@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Department of Geography, State University of New York at Buffalo
-    company_url: 'https://www.buffalo.edu/cas/geography.html'
+    company: GeoAI Lab, Department of Geography, State University of New York at Buffalo
+    company_url: 'https://geoai.geog.buffalo.edu/'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2021-08-15'

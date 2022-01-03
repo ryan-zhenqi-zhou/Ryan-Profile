@@ -12,9 +12,9 @@ design:
 ---
 
 **Conferences:**\
-3\. **Zhou Z.**, Wang Y., & Xu Z. (2019) Mapping the service area and population of urban <br /> &emsp; parks for park city initiative: a case study of Nanjing. 16th International Conference on <br /> &emsp; Urban Health. (Poster).\
-2\. **Zhou Z.**, Xu Q., & Xu Z. (2019) Measuring the walkability around the urban parks: a <br /> &emsp; case study of Nanjing. 16th International Conference on Urban Health. (Poster).\
-1\. Wang Y., Liu J., **Zhou Z.**, Lai S., & Han L. (2018) The urban community agriculture <br /> &emsp; practices in Chinese cities: case studies in Nanjing. 15th International Conference on <br /> &emsp; Urban Health. (Poster).
+3\. **Zhou Z.**, Xu Q., & Xu Z. (2019) [Measuring the walkability around the urban parks: a <br /> &emsp; case study of Nanjing](https://ryan-zhenqi-zhou.github.io/poster3.pdf). 16th International Conference on Urban Health. (Poster).\
+2\. **Zhou Z.**, Wang Y., & Xu Z. (2019) [Mapping the service area and population of urban <br /> &emsp; parks for park city initiative: a case study of Nanjing](https://ryan-zhenqi-zhou.github.io/poster2.pdf). 16th International Conference on <br /> &emsp; Urban Health. (Poster).\
+1\. Wang Y., Liu J., **Zhou Z.**, Lai S., & Han L. (2018) [The urban community agriculture <br /> &emsp; practices in Chinese cities: case studies in Nanjing](https://ryan-zhenqi-zhou.github.io/poster1.pdf). 15th International Conference on <br /> &emsp; Urban Health. (Poster).
 
 **Workshops:**\
 3\. Participated in the 9th Summer Workshop DigitalFUTURES YOUNG Forum 2019— <br /> &emsp; Architectural Intelligence held at the School of Architecture and Urban Planning <br /> &emsp; (CAUP), Tongji University. Oral presentation: Old community renovation based on data <br /> &emsp; analysis. July 2, 2019.\

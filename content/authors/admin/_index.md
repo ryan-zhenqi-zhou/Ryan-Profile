@@ -12,7 +12,7 @@ role: Ph.D. Student, Research Assistant
 organizations:
 - name: Department of Geography
   url: https://www.buffalo.edu/cas/geography.html
-- name: State University of New York at Buffalo
+- name: University at Buffalo - SUNY
   url: https://www.buffalo.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Geography
-    institution: State University of New York at Buffalo, USA
+    institution: University at Buffalo - SUNY, USA
     year: 2021
   - course: M.E. in Landscape Architecture
     institution: Nanjing Forestry University, China
@@ -47,19 +47,19 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RyanZhenqiZhou
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=Rn0GtnIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ryan-zhenqi-zhou
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: linkedin.com/in/zhenqi-zhou-876767221
 - icon: researchgate
   icon_pack: ai
-  link: https://www.linkedin.com/
+  link: https://www.researchgate.net/profile/Ryan-Zhou-5
 - icon: orcid
   icon_pack: ai
   link: https://www.linkedin.com/
@@ -81,6 +81,6 @@ email: ""
 highlight_name: true
 ---
 
-Ryan Zhenqi Zhou is a Ph.D. student in the Department of Geography at State University of New York at Buffalo. His research focuses on health outcome prediction and understanding by leveraging human mobility data and geospatial image data, combined with spatial data science and existing AI models. He is interested in GEOAI, Public Health, Urban Analytics, Social Media and Big Data.
+Ryan Zhenqi Zhou is a Ph.D. student in the Department of Geography at the State University of New York at Buffalo (UB). His research focuses on health outcome prediction and understanding by leveraging human mobility data and geospatial image data, combined with spatial data science and existing AI models. He is interested in GEOAI, Public Health, Urban Analytics, Social Media, and Big Data.
 
-Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at Nanjing Forestry University, and B.A. in Landscape Gardening at Zhejiang A&F University. Apart from studying, he likes Strength Training/Bodybuilding.
+Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at the Nanjing Forestry University, and B.A. in Landscape Gardening at the Zhejiang A&F University. Apart from studying, he likes Strength Training/Bodybuilding.
