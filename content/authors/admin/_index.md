@@ -56,7 +56,7 @@ social:
   link: https://github.com/ryan-zhenqi-zhou
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/zhenqi-zhou-876767221
+  link: https://www.linkedin.com/in/zhenqi-zhou-876767221/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ryan-Zhou-5
