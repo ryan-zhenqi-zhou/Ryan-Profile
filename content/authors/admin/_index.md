@@ -62,7 +62,7 @@ social:
   link: https://www.researchgate.net/profile/Ryan-Zhou-5
 - icon: orcid
   icon_pack: ai
-  link: https://www.linkedin.com/
+  link: https://orcid.org/0000-0002-7182-140X
 - icon: academia
   icon_pack: ai
   link: https://www.linkedin.com/
