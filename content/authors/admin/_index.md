@@ -29,13 +29,13 @@ education:
   courses:
   - course: Ph.D. in Geography
     institution: University at Buffalo - SUNY, USA
-    year: 2021
+    year: 2026 (expected)
   - course: M.E. in Landscape Architecture
     institution: Nanjing Forestry University, China
-    year: 2018
+    year: 2021
   - course: B.A. in Landscape Gardening
     institution: Zhejiang A&F University, China
-    year: 2014
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
