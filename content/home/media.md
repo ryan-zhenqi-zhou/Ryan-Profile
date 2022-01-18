@@ -11,6 +11,7 @@ design:
   columns: '2'
 ---
 
+* **Bilibili:** [Ryan Day Day Up Channel](https://space.bilibili.com/23051991/)
 * **School of Cubic Data:** [How to calculate the green visual ratio? This software helps you solve the problem](https://mp.weixin.qq.com/s/kVg-lVjTMyp7jgrt01kRRw)
 * **Tongji CAUP:** [DigitalFUTURES YOUNG | Admitted Students Decryption (1)](https://mp.weixin.qq.com/s/lxnpQ14DAI85TfJmdO_3Fg)
 * **MetroDataTech:** [DigitalFUTURES 2019](https://mp.weixin.qq.com/s/iYZKD1QtM-Tb3MzZipge2g)
