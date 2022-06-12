@@ -13,8 +13,8 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Conferences
-    url: '#conferences'
+  - name: Presentations
+    url: '#presentations'
     weight: 40
   - name: Awards
     url: '#awards'
