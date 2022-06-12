@@ -11,7 +11,11 @@ design:
   columns: '2'
 ---
 
-* Member of [GISphere](https://www.gisphere.net/), GISalon, 2021-present
+**Peer Reviewer for Academic Journals**
+* [GISphere](https://www.springer.com/journal/43762)
+
+**Committee Service**
+* **Co-host**, [GISphere](https://gisphere.github.io/), GISalon, Oct 2021-present, USA.
 
 
 
