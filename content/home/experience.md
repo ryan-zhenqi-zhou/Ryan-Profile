@@ -32,6 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Data Collecting
         * Spatial Data Analysis
         * AI Modelling
         * Paper Writing
