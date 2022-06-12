@@ -45,18 +45,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/RyanZhenqiZhou
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Rn0GtnIAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ryan-zhenqi-zhou
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ryan-zhou-876767221/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ryan-zhenqi-zhou
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RyanZhenqiZhou
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ryan-Zhou-5
