@@ -15,7 +15,7 @@ design:
 * [Computational Urban Science](https://www.springer.com/journal/43762)/
 
 **Committee Service**
-* **Co-host**, [GISphere](https://gisphere.github.io/), GISalon, Oct 2021-present, USA.
+* **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct 2021-present, USA.
 
 
 
