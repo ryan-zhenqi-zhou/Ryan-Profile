@@ -30,6 +30,8 @@ experience:
     date_start: '2021-08-15'
     date_end: ''
     description: |2-
+        Superviser: Dr. Yingjie Hu
+        
         Responsibilities include:
         
         * Data Collecting
