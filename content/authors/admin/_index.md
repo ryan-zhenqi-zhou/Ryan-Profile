@@ -85,4 +85,4 @@ Ryan (Zhenqi) Zhou is a Ph.D. student in the Department of Geography at the Stat
 
 Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at the Nanjing Forestry University, and B.A. in Landscape Gardening at the Zhejiang A&F University. Apart from studying, he likes Strength Training/Bodybuilding.
 
-Download my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan_Zhou_CV.pdf)
+Download my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan-Zhou-CV.pdf)
