@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Assistant
-    company:  Department of Geography, State University of New York at Buffalo
+    company:  Department of Geography, University at Buffalo - SUNY
     company_url: 'https://www.buffalo.edu/cas/geography.html'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
@@ -41,7 +41,7 @@ experience:
         Superviser: Dr. Yingjie Hu
 
   - title: Research Assistant
-    company: GeoAI Lab, Department of Geography, State University of New York at Buffalo
+    company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
     company_url: 'https://geoai.geog.buffalo.edu/'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
