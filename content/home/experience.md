@@ -22,22 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant
+    company:  Department of Geography, State University of New York at Buffalo
+    company_url: 'https://www.buffalo.edu/cas/geography.html'
+    # company_logo: org-UB
+    location: Buffalo, New York State, USA
+    date_start: '2022-08-15'
+    date_end: ''
+
+  - title: Research Assistant
+    company: Funded by NSF Research Experience for (REG) Grant
+    company_url: 'https://geoai.geog.buffalo.edu/2022/06/04/lab-member-ryan-zhou-receives-an-nsf-research-experience-for-graduates-reg-award-to-study-comm                   unity-resilience-during-natural-disasters/'
+    # company_logo: org-UB
+    location: Buffalo, New York State, USA
+    date_start: '2022-05-15'
+    date_end: '2022-08-15'
+    description: |2-
+        Superviser: Dr. Yingjie Hu
+
   - title: Research Assistant
     company: GeoAI Lab, Department of Geography, State University of New York at Buffalo
     company_url: 'https://geoai.geog.buffalo.edu/'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2021-08-15'
-    date_end: ''
+    date_end: '2022-05-15'
     description: |2-
         Superviser: Dr. Yingjie Hu
-        
-        Responsibilities include:
-        
-        * Data Collection
-        * Spatial Data Analysis
-        * AI Modelling
-        * Paper Writing
         
   - title: Spatial Data Analyst (Intern)
     company: MetroDataTech (MDT)
