@@ -32,7 +32,7 @@ experience:
 
   - title: Research Assistant
     company: Funded by NSF Research Experience for (REG) Grant
-    company_url: 'https://geoai.geog.buffalo.edu/2022/06/04/lab-member-ryan-zhou-receives-an-nsf-research-experience-for-graduates-reg-award-to-study-comm                   unity-resilience-during-natural-disasters/'
+    company_url: 'https://geoai.geog.buffalo.edu/2022/06/04/lab-member-ryan-zhou-receives-an-nsf-research-experience-for-graduates-reg-award-to-study-community-resilience-during-natural-disasters/'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2022-05-15'
