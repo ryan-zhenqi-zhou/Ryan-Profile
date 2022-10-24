@@ -29,6 +29,8 @@ experience:
     location: Buffalo, New York State, USA
     date_start: '2022-08-15'
     date_end: ''
+    description: |2-
+    Superviser: Dr. Yingjie Hu
 
   - title: Research Assistant
     company: Funded by NSF Research Experience for (REG) Grant
@@ -38,7 +40,7 @@ experience:
     date_start: '2022-05-15'
     date_end: '2022-08-15'
     description: |2-
-        Superviser: Dr. Yingjie Hu
+        GEO 481/506 Geographical Information Systems
 
   - title: Research Assistant
     company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
