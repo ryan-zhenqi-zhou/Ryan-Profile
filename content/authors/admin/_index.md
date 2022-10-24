@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryan (Zhenqi) Zhou
+title: Ryan Zhenqi Zhou
 
 # Is this the primary user of the site?
 superuser: true
@@ -81,7 +81,7 @@ email: ""
 highlight_name: true
 ---
 
-Ryan (Zhenqi) Zhou is a Ph.D. student in the Department of Geography at the State University of New York at Buffalo (UB). His research focuses on health outcome prediction and understanding by integrating human mobility data, geospatial image data, and existing AI models. He is interested in GeoAI, Public Health, Urban Analytics, Social Media, and Big Data.
+Ryan Zhenqi Zhou is a Ph.D. student in the Department of Geography at the State University of New York at Buffalo (UB). His research focuses on health outcome prediction and understanding by integrating human mobility data, geospatial image data, and existing AI models. He is interested in GeoAI, Public Health, Urban Analytics, Social Media, and Big Data.
 
 Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at the Nanjing Forestry University, and B.A. in Landscape Gardening at the Zhejiang A&F University. Apart from studying, he likes Strength Training/Bodybuilding.
 

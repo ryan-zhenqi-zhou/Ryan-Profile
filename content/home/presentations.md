@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-9\. Poster presentation (2022): Human mobility data demonstrates increase in park visitation since start of COVID-19 pandemic in Buffalo, New York. in the *American College of Preventive Medicine (ACPM) 2022 annual meeting*, Jun. 15-18, 2022, Denver, Colorado, USA (Co-Author).\
+9. Poster presentation (2022): Human mobility data demonstrates increase in park visitation since start of COVID-19 pandemic in Buffalo, New York. in the *American College of Preventive Medicine (ACPM) 2022 annual meeting*, Jun. 15-18, 2022, Denver, Colorado, USA (Co-Author).\
 8\. Poster presentation (2022): Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic. in the *University Consortium for Geographic Information Science (UCGIS) Symposium 2022*, Jun. 7-9, 2022, Syracuse, New York, USA.\
 7\. Oral presentation (2022): The role of place visits related to diet and physical activity from mobile phone location data in enhancing obesity estimation at the neighborhood level. in the *Graduate Student Lightning Talks, Spring 2022 Colloquium Speaker Series, UB Department of Geography*, Feb. 18, 2022, Buffalo, New York, USA.\
 6\. Poster presentation (2019): Measuring the walkability around the urban parks: a case study of Nanjing. in the *16th International Conference on Urban Health*, Nov. 4-8, 2019, Xiamen, Fujian, China.\
