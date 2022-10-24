@@ -30,7 +30,11 @@ experience:
     date_start: '2022-08-15'
     date_end: ''
     description: |2-
+<<<<<<< HEAD
     Superviser: Dr. Yingjie Hu
+=======
+    GEO 481/506 Geographical Information Systems
+>>>>>>> 44e9e21be31f093b61b1fceb2e0c69b2ba0ac661
 
   - title: Research Assistant
     company: Funded by NSF Research Experience for (REG) Grant
