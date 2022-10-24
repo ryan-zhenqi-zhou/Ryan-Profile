@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryan (Zhenqi) Zhou
+title: Ryan Zhenqi Zhou
 
 # Is this the primary user of the site?
 superuser: true
