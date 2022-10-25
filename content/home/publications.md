@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-9\. Yue M., Hu Y., Moncrieff G.R., Slingsby J.A., Wilson A.M., Maitner B., & **Zhou R.Z.** <br> &nbsp;&nbsp;&nbsp;&nbsp;(2022): [Forecasting vegetation dynamics in an open ecosystem by integrating deep <br> &nbsp;&nbsp;&nbsp;&nbsp;learning and environmental variables](https://ryan-zhenqi-zhou.github.io/1-s2.0-S1569843222002485-main.pdf). *International Journal of Applied Earth <br> &nbsp;&nbsp;&nbsp;&nbsp;Observation and Geoinformation*, 114, 103060.\
+9. Yue M., Hu Y., Moncrieff G.R., Slingsby J.A., Wilson A.M., Maitner B., & **Zhou R.Z.** (2022): [Forecasting vegetation dynamics in an open ecosystem by integrating deep learning and environmental variables](https://ryan-zhenqi-zhou.github.io/1-s2.0-S1569843222002485-main.pdf). *International Journal of Applied Earth Observation and Geoinformation*, 114, 103060.\
 8. Dong Y., Zhang B., **Zhou R.Z.**, & Xu Z. (2022): [Assessing the Accessibility of Swimming Pools in Nanjing by Walking and Cycling Using Baidu Maps](https://ryan-zhenqi-zhou.github.io/ijgi-11-00515.pdf). *International Journal of Geo-Information*, 11(10), 515.\
 7. **Zhou R.Z.**, Xu Z., Liu A., Zhou S., Mu L., & Zhang X. (2021): [Mapping the accessibility of medical facilities of Wuhan during the COVID-19 pandemic](https://ryan-zhenqi-zhou.github.io/ijgi-10-00318.pdf). *International Journal of Geo-Information*, 10(5), 318.\
 6. Xu Z., **Zhou R.Z.**, Wang Y., Han L., & Xing J. (2021): [Analysis on walking shed in comprehensive parks and urban form from a Park-City perspective](https://ryan-zhenqi-zhou.github.io/cpr-1002-1329.pdf). *City Planning Review*, 45(03), 81-90 (in Chinese).\
