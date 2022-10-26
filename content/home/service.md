@@ -12,7 +12,7 @@ design:
 ---
 
 **Peer Reviewer for Academic Journals**
-* [Computational Urban Science](https://www.springer.com/journal/43762)
+* [Computational Urban Science](https://www.springer.com/journal/43762) (2)
 
 **Committee Service**
 * **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA.
