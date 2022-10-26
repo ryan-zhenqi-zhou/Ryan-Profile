@@ -13,6 +13,7 @@ design:
 
 * **Bilibili**: [Personal Video Channel](https://space.bilibili.com/23051991/)
 * **Bilibili**: [GISphere | GISalon Video Channel](https://space.bilibili.com/1043870260/)
+* **GISphere | GISalon**: [Face to face between professors and students](https://mp.weixin.qq.com/s/L5ZMO3o7x_U8fh8ZOdIxVA)
 * **GeoAI**: [Lab member Ryan Zhou receives a new NSF Research Experience for Graduates (REG) Award to study community resilience during natural disasters](https://geoai.geog.buffalo.edu/2022/06/04/lab-member-ryan-zhou-receives-an-nsf-research-experience-for-graduates-reg-award-to-study-community-resilience-during-natural-disasters/)
 * **GISphere | GISalon**: [From campus to public affair work! GISer Career Development Salon](https://mp.weixin.qq.com/s/Q_jW-djK_OaH7e-XVhZgbg)
 * **GISphere | GISalon**: [From campus to academia! GISer Career Development Salon](https://mp.weixin.qq.com/s/9-Vgaf9GsffqicnTK2neXA)
