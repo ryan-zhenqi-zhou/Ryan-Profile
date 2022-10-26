@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=Rn0GtnIAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ryan-zhou-876767221/
+  link: https://www.linkedin.com/in/ryan-zhenqi-zhou-876767221/
 - icon: github
   icon_pack: fab
   link: https://github.com/ryan-zhenqi-zhou
