@@ -22,47 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant
-    company:  Department of Geography, University at Buffalo - SUNY
-    company_url: 'https://www.buffalo.edu/cas/geography.html'
-    # company_logo: org-UB
-    location: Buffalo, New York State, USA
-    date_start: '2022-08-15'
-    date_end: ''
-    description: |2-
-      GEO 481/506 Geographical Information Systems
-
-  - title: Research Assistant
-    company: Funded by NSF Research Experience for (REG) Grant
-    company_url: 'https://geoai.geog.buffalo.edu/2022/06/04/lab-member-ryan-zhou-receives-an-nsf-research-experience-for-graduates-reg-award-to-study-community-resilience-during-natural-disasters/'
-    # company_logo: org-UB
-    location: Buffalo, New York State, USA
-    date_start: '2022-05-15'
-    date_end: '2022-08-15'
-    description: |2-
-        Superviser: Dr. Yingjie Hu
-
-  - title: Research Assistant
-    company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
+  - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
     company_url: 'https://geoai.geog.buffalo.edu/'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2021-08-15'
-    date_end: '2022-05-15'
+    date_end: ''
     description: |2-
-        Superviser: Dr. Yingjie Hu
+      Teaching Assistant, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - Present
+      Research Assistant, Funded by NSF Research Experience for (REG) Grant, May 2022 - Aug 2022
+      Research Assistant, Aug 2021 - May 2022
         
-  - title: Spatial Data Analyst (Intern)
-    company: MetroDataTech (MDT)
+  - company: MetroDataTech (MDT)
     company_url: 'https://www.metrodata.cn/'
     # company_logo: org-MDT
     location: Shanghai, China
     date_start: '2020-08-01'
     date_end: '2020-10-01'
     description: |2-
-        Projects:
-        
-        * Assessment of the land used for educational facilities in Pudong, Shanghai
+        Spatial Data Analyst (Intern)
+        Project: Assessment of the land used for educational facilities in Pudong, Shanghai
 
 design:
   columns: '2'
