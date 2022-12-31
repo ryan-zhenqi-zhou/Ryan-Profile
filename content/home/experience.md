@@ -29,9 +29,9 @@ experience:
     date_start: '2021-08-15'
     date_end: ''
     description: |2-
-      Teaching Assistant, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - Present
-      Research Assistant, Funded by NSF Research Experience for (REG) Grant, May 2022 - Aug 2022\
-      Research Assistant, Aug 2021 - May 2022
+      * Teaching Assistant, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - Present
+      * Research Assistant, Funded by NSF Research Experience for (REG) Grant, May 2022 - Aug 2022\
+      * Research Assistant, Aug 2021 - May 2022
         
   - company: MetroDataTech (MDT)
     company_url: 'https://www.metrodata.cn/'
@@ -40,8 +40,7 @@ experience:
     date_start: '2020-08-01'
     date_end: '2020-10-01'
     description: |2-
-        Spatial Data Analyst (Intern)
-        Project: Assessment of the land used for educational facilities in Pudong, Shanghai
+        * Spatial Data Analyst (Intern), Project: Assessment of the land used for educational facilities in Pudong, Shanghai
 
 design:
   columns: '2'
