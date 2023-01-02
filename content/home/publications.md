@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-13\. **Zhou R.Z.**, Hu Y., Tirabassi J.N., Ma Y., & Xu Z. (2022): [Deriving neighborhood-level diet <br> &nbsp;&nbsp;&nbsp;&nbsp; and physical activity measurements from anonymized mobile phone location data for enhancing obesity estimation](https://ryan-zhenqi-zhou.github.io/s12942-022-00321-4.pdf). *International Journal of Health Geographics*, 21, 22.\
+13\. **Zhou R.Z.**, Hu Y., Tirabassi J.N., Ma Y., & Xu Z. (2022): [Deriving neighborhood-level diet and physical activity measurements from anonymized mobile phone location data for enhancing obesity estimation](https://ryan-zhenqi-zhou.github.io/s12942-022-00321-4.pdf). *International Journal of Health Geographics*, 21, 22.\
 12\. Zhang B., Dong Y., Kelobonye K., **Zhou R.Z.**, & Xu Z. (2022): [Delineating walking <br> &nbsp;&nbsp;&nbsp;&nbsp; catchment of the existing and proposed public sports facilities with open-source data: <br> &nbsp;&nbsp;&nbsp;&nbsp; a case study of Nanjing](https://ryan-zhenqi-zhou.github.io/DW-2022.pdf). *Applied Spatial Analysis and Policy*.\
 11\. Xu Z., Li M., Chen Y., & **Zhou R.Z.** (2022): Assessing the cycling accessibility of <br> &nbsp;&nbsp;&nbsp;&nbsp; comprehensive parks with online maps: a case study of Nanjing City. *Journal of <br> &nbsp;&nbsp;&nbsp;&nbsp; Nanjing Forestry University*, accepted (in Chinese).\
 10\. Chen Y., Zhang B., Li M., **Zhou R.Z.**, & Xu Z. (2022): [Concatenating daily exercise <br> &nbsp;&nbsp;&nbsp;&nbsp; routes with public sports facilities, bicycle lanes, and green spaces: a feasibility <br> &nbsp;&nbsp;&nbsp;&nbsp; analysis in Nanjing, China](https://ryan-zhenqi-zhou.github.io/land-11-02251-v2.pdf). *Land*, 11, 2251.\
