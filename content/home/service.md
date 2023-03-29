@@ -12,7 +12,9 @@ design:
 ---
 
 **Peer Reviewer for Academic Journals**
-* [Computational Urban Science](https://www.springer.com/journal/43762) (2)
+* [Computational Urban Science](https://www.springer.com/journal/43762)
+* [Environment and Planning B: Urban Analytics and City Science](https://journals.sagepub.com/home/epb)
+* [Journal of Map](https://www.tandfonline.com/journals/tjom20)
 
 **Committee Service**
 * **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA.
