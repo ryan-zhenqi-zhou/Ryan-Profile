@@ -11,6 +11,7 @@ design:
   columns: '2'
 ---
 
+11\. Oral presentation (2023): Understanding spatial impacts of the Texas winter storm in 2021 via mobile phone location data and nighttime light images, in the 2023 AAG Annual Meeting, Mar. 26, 2023, Denver, Colorado, USA.\
 10\. Oral presentation (2022): Deriving neighborhood-level diet and physical activity <br> &nbsp;&nbsp;&nbsp;&nbsp;measurements from anonymized mobile phone location data for enhancing obesity <br> &nbsp;&nbsp;&nbsp;&nbsp;estimation, in the *GEOMED 2022*, Oct. 14, 2022, University of California, Irvine,  <br> &nbsp;&nbsp;&nbsp;&nbsp;California, USA.\
 9\. Poster presentation (2022): Human mobility data demonstrates increase in park <br> &nbsp;&nbsp;&nbsp;&nbsp;visitation since start of COVID-19 pandemic in Buffalo, New York, in the *American <br> &nbsp;&nbsp;&nbsp;&nbsp;College of Preventive Medicine (ACPM) 2022 annual meeting*, Jun. 15-18, 2022, <br> &nbsp;&nbsp;&nbsp;&nbsp;Denver, Colorado, USA (Co-Author).\
 8\. Poster presentation (2022): Mapping the accessibility of medical facilities of Wuhan <br> &nbsp;&nbsp;&nbsp;&nbsp;during the COVID-19 pandemic, in the *University Consortium for Geographic <br> &nbsp;&nbsp;&nbsp;&nbsp;Information Science (UCGIS) Symposium 2022*, Jun. 7-9, 2022, Syracuse, New York, <br> &nbsp;&nbsp;&nbsp;&nbsp;USA.\
