@@ -29,7 +29,8 @@ experience:
     date_start: '2021-08-15'
     date_end: ''
     description: |2-
-      * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - Present
+      * **Research Assistant**, GeoAI Lab, May 2023 - Present
+      * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - May 2023
       * **Research Assistant**, Funded by NSF Research Experience for (REG) Grant, May 2022 - Aug 2022
       * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
         
