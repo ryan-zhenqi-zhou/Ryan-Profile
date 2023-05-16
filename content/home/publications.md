@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-14\. Sun, K., Hu, Y., Ma, Y., **Zhou, R. Z.**, & Zhu, Y. (2023): [Conflating point of interest (POI) data: A systematic review of matching methods](https://ryan-zhenqi-zhou.github.io/2023_CEUS_POIConflation.pdf). *Computers, Environment and Urban Systems*, 103, 101977.\
+14\. Sun, K., Hu, Y., Ma, Y., **Zhou, R. Z.**, & Zhu, Y. (2023): [Conflating point of interest (POI) <br> &nbsp;&nbsp;&nbsp;&nbsp; data: A systematic review of matching methods](https://ryan-zhenqi-zhou.github.io/2023_CEUS_POIConflation.pdf). *Computers, Environment and <br> &nbsp;&nbsp;&nbsp;&nbsp; Urban Systems*, 103, 101977.\
 13\. Xu Z., Li M., Chen Y., & **Zhou R.Z.** (2023): [Assessing the cycling accessibility of <br> &nbsp;&nbsp;&nbsp;&nbsp; comprehensive parks with online maps: a case study of Nanjing City](https://ryan-zhenqi-zhou.github.io/njlyxb-1-8.pdf). *Journal of <br> &nbsp;&nbsp;&nbsp;&nbsp; Nanjing Forestry University Natural Science*, 1-8 (in Chinese).\
 12\. **Zhou R.Z.**, Hu Y., Tirabassi J.N., Ma Y., & Xu Z. (2022): [Deriving neighborhood-level <br> &nbsp;&nbsp;&nbsp;&nbsp; diet and physical activity measurements from anonymized mobile phone location data <br> &nbsp;&nbsp;&nbsp;&nbsp; for enhancing obesity estimation](https://ryan-zhenqi-zhou.github.io/s12942-022-00321-4.pdf). *International Journal of Health Geographics*, 21, 22.\
 11\. Zhang B., Dong Y., Kelobonye K., **Zhou R.Z.**, & Xu Z. (2022): Delineating walking <br> &nbsp;&nbsp;&nbsp;&nbsp; catchment of the existing and proposed public sports facilities with open-source data: <br> &nbsp;&nbsp;&nbsp;&nbsp; a case study of Nanjing. *Applied Spatial Analysis and Policy*.\
