@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-12\. Hugh W. Calkins Applied GIS Award, By Department of Geography at the University at Buffalo - SUNY, 2023\
+12\. Hugh W. Calkins Applied GIS Award, By Department of Geography at the University at <br> &nbsp;&nbsp;&nbsp;&nbsp; Buffalo - SUNY, 2023\
 11\. NSF Research Experience for Graduates (REG) Grant, by Human-Environment and <br> &nbsp;&nbsp;&nbsp;&nbsp;Geographical Sciences (HEGS) program in the National Science Foundation's (NSF), <br> &nbsp;&nbsp;&nbsp;&nbsp;Student PI, 2022\
 10\. Outstanding Graduate Award, by Nanjing Forestry University, 2021\
 9\. Funded student research project by the Postgraduate Research & Practice Innovation <br> &nbsp;&nbsp;&nbsp;&nbsp;Program of Jiangsu Province (KYCX20_0893), Department of Education, Jiangsu, <br> &nbsp;&nbsp;&nbsp;&nbsp;China, Student PI, 2020\
