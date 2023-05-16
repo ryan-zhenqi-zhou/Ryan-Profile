@@ -21,8 +21,8 @@ bio: My research interests include GEOAI, Public Health, Urban Analytics.
 # Interests to show in About widget
 interests:
 - GeoAI
-- Public Health
 - Disaster Resilience
+- Public Health
 - Urban Analytics
 - Human Mobility
 
