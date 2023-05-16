@@ -83,7 +83,7 @@ email: ""
 highlight_name: true
 ---
 
-Ryan Zhenqi Zhou is a Ph.D. student in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), and a research assistant at [GeoAI Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu. He is interested in GeoAI, Public Health, Disaster Resilience, Urban Analytics, and Human Mobility.
+Ryan Zhenqi Zhou is a Ph.D. student in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), and a research assistant at [GeoAI Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu. He is interested in GeoAI, Disaster Resilience, Public Health, Urban Analytics, and Human Mobility.
 
 Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at the Nanjing Forestry University, and B.A. in Landscape Gardening at the Zhejiang A&F University. Apart from studying, he likes strength training and soccer.
 
