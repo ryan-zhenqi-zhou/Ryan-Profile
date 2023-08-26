@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-13\. Travel award, by 2023 I-GUIDE Summer School Program, 2023\
+13\. Travel Award, by 2023 I-GUIDE Summer School Program, 2023\
 12\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2023\
 11\. NSF Research Experience for Graduates (REG) Grant, by Human-Environment and Geographical Sciences (HEGS) program in the National Science Foundation's (NSF), Student PI, 2022\
 10\. Outstanding Graduate Award, by Nanjing Forestry University, 2021\
