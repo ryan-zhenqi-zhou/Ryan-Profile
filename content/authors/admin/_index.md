@@ -6,7 +6,7 @@ title: Ryan Zhenqi Zhou
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student, Research Assistant
+role: Ph.D. Candidate, Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,7 @@ organizations:
   url: https://www.buffalo.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include GEOAI, Public Health, Urban Analytics.
+bio: My research interests include GEOAI, Disaster Resilience, Public Health, Urban Analytics, and Human Mobility
 
 # Interests to show in About widget
 interests:
@@ -83,7 +83,7 @@ email: ""
 highlight_name: true
 ---
 
-Ryan Zhenqi Zhou is a Ph.D. student in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), and a research assistant at [GeoAI Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu. He is interested in GeoAI, Disaster Resilience, Public Health, Urban Analytics, and Human Mobility.
+Ryan Zhenqi Zhou (Zhenqi Zhou) is a Ph.D. Candidate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), and a research assistant at [GeoAI Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu. He is interested in GeoAI, Disaster Resilience, Public Health, Urban Analytics, and Human Mobility.
 
 Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at the Nanjing Forestry University, and B.A. in Landscape Architecture at the Zhejiang A&F University. Apart from studying, he likes strength training and soccer.
 
