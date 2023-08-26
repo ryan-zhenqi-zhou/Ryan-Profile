@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-12\. Oral presentation (2023): Improving the 3D Representation of Rivers in Digital Elevation Models (DEM), in the 2023 I-GUIDE Summer School, Aug. 11, 2023, Boulder, Colorado, USA.\
+12\. Oral presentation (2023): Improving the 3D representation of rivers in digital elevation models (DEM), in the 2023 I-GUIDE Summer School, Aug. 11, 2023, Boulder, Colorado, USA.\
 11\. Oral presentation (2023): Understanding spatial impacts of the Texas winter storm in 2021 via mobile phone location data and nighttime light images, in the 2023 AAG Annual Meeting, Mar. 26, 2023, Denver, Colorado, USA.\
 10\. Oral presentation (2022): Deriving neighborhood-level diet and physical activity measurements from anonymized mobile phone location data for enhancing obesity estimation, in the *GEOMED 2022*, Oct. 14, 2022, University of California, Irvine, California, USA.\
 9\. Poster presentation (2022): Human mobility data demonstrates increase in park visitation since start of COVID-19 pandemic in Buffalo, New York, in the *American College of Preventive Medicine (ACPM) 2022 annual meeting*, Jun. 15-18, 2022, Denver, Colorado, USA (Co-Author).\
