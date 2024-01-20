@@ -1,4 +1,4 @@
----
+![image](https://github.com/ryan-zhenqi-zhou/Ryan-Profile/assets/90157614/517ff667-caa7-4c88-8873-6fe670632ddb)---
 widget: blank
 headless: true
 
@@ -13,6 +13,8 @@ design:
 
 * **Bilibili**: [Personal Video Channel](https://space.bilibili.com/23051991/)
 * **Bilibili**: [GISphere | GISalon Video Channel](https://space.bilibili.com/1043870260/)
+* **GISphere | GISalon**: [GISer  in Industry (2)](https://mp.weixin.qq.com/s?__biz=Mzg3OTUyMjk3OQ==&mid=2247493252&idx=1&sn=5b7996b2ba01f26c934323e662682b15&scene=19#wechat_redirect)
+* **GISphere | GISalon**: [GISer  in Industry (1)](https://mp.weixin.qq.com/s?__biz=Mzg3OTUyMjk3OQ==&mid=2247493111&idx=1&sn=03f06fbca63945837ac34620421b36ac&scene=19#wechat_redirect)
 * **GISphere | GISalon**: [Face to face between professors and students](https://mp.weixin.qq.com/s/L5ZMO3o7x_U8fh8ZOdIxVA)
 * **GeoAI**: [Lab member Ryan Zhou receives a new NSF Research Experience for Graduates (REG) Award to study community resilience during natural disasters](https://geoai.geog.buffalo.edu/2022/06/04/lab-member-ryan-zhou-receives-an-nsf-research-experience-for-graduates-reg-award-to-study-community-resilience-during-natural-disasters/)
 * **GISphere | GISalon**: [From campus to public affair work! GISer Career Development Salon](https://mp.weixin.qq.com/s/Q_jW-djK_OaH7e-XVhZgbg)
