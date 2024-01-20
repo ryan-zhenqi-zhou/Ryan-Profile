@@ -18,8 +18,8 @@ design:
 * [Royal Society Open Science](https://royalsocietypublishing.org/journal/rsos)
 
 **Volunteer Service**
-* **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA.
-* **Faculty Liaison for PhD**, Geography GSA, University at Buffalo - SUNY, Sept. 2022-present, USA.
-* **Conference Assistant**, 2023 AAG Annual Meeting, Mar. 23-27, 2023, USA.
+* **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA
+* **Faculty Liaison for PhD**, Geography GSA, University at Buffalo - SUNY, Sept. 2022-present, USA
+* **Conference Assistant**, 2023 AAG Annual Meeting, Mar. 23-27, 2023, USA
 
 
