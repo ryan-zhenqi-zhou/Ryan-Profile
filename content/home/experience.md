@@ -35,7 +35,7 @@ experience:
       * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
 
   - company: NSF I-GUIDE Summer School
-    company_url: '[https://www.metrodata.cn/](https://iguide.illinois.edu/)'
+    company_url: 'https://iguide.illinois.edu/'
     # company_logo: org-MDT
     location: Boulder, Colorado, USA
     date_start: '2023-08-07'
