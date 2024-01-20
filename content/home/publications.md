@@ -1,4 +1,4 @@
----
+![image](https://github.com/ryan-zhenqi-zhou/Ryan-Profile/assets/90157614/e21b8ae2-74d8-4779-8a8f-0da49e65c9b6)![image](https://github.com/ryan-zhenqi-zhou/Ryan-Profile/assets/90157614/c64c58b9-7bd0-45cf-b8c7-965e3a3d566a)![image](https://github.com/ryan-zhenqi-zhou/Ryan-Profile/assets/90157614/d22fc805-aab9-4821-8b5a-911ba504f3a0)---
 widget: blank
 headless: true
 
@@ -10,6 +10,9 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+17\. **Zhou R.Z.**, Hu Y., Zou L., Cai H., Bing Z., & Sun K. (2023): [Understanding the disparate impacts of the 2021 Texas winter storm and power outages through mobile phone location data and nighttime light images](http://dx.doi.org/10.2139/ssrn.4631641). *Under Review*.\
+16\. Sun K., Hu Y., Lakhanpal, G., & **Zhou, R.Z.** (2023): [Spatial cross-validation for GeoAI](https://www.acsu.buffalo.edu/~yhu42/papers/2023_GeoAIHandbook_SpatialCV.pdf). *Taylor & Francis Group*.\
+15\. Hu, Y., Mai, G., Cundy, C., Choi, K., Lao, N., Liu, W., Lakhanpal, G., **Zhou, R. Z.**, & Joseph, K. (2023): [Geo-knowledge-guided GPT models improve the extraction of location descriptions from disaster-related social media messages](https://www.acsu.buffalo.edu/~yhu42/papers/2023_IJGIS_Geo-GPT.pdf). *International Journal of Geographical Information Science*, 1-30.\
 14\. Sun, K., Hu, Y., Ma, Y., **Zhou, R. Z.**, & Zhu, Y. (2023): [Conflating point of interest (POI) data: A systematic review of matching methods](https://ryan-zhenqi-zhou.github.io/2023_CEUS_POIConflation.pdf). *Computers, Environment and Urban Systems*, 103, 101977.\
 13\. Xu Z., Li M., Chen Y., & **Zhou R.Z.** (2023): [Assessing the cycling accessibility of comprehensive parks with online maps: a case study of Nanjing City](https://ryan-zhenqi-zhou.github.io/njlyxb-1-8.pdf). *Journal of Nanjing Forestry University Natural Science*, 1-8 (in Chinese).\
 12\. **Zhou R.Z.**, Hu Y., Tirabassi J.N., Ma Y., & Xu Z. (2022): [Deriving neighborhood-level diet and physical activity measurements from anonymized mobile phone location data for enhancing obesity estimation](https://ryan-zhenqi-zhou.github.io/s12942-022-00321-4.pdf). *International Journal of Health Geographics*, 21, 22.\
