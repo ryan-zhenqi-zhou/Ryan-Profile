@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-17\. **Zhou R.Z.**, Hu Y., Zou L., Cai H., Bing Z., & Sun K. (2023): [Understanding the disparate impacts of the 2021 Texas winter storm and power outages through mobile phone location data and nighttime light images](http://dx.doi.org/10.2139/ssrn.4631641). *Under Review*.\
+17\. **Zhou R.Z.**, Hu Y., Zou L., Cai H., & Bing Z. (2023): [Understanding the disparate impacts of the 2021 Texas winter storm and power outages through mobile phone location data and nighttime light images](http://dx.doi.org/10.2139/ssrn.4631641). *Under Review*.\
 16\. Sun K., Hu Y., Lakhanpal, G., & **Zhou, R.Z.** (2023): [Spatial cross-validation for GeoAI](https://www.acsu.buffalo.edu/~yhu42/papers/2023_GeoAIHandbook_SpatialCV.pdf). *Taylor & Francis Group*.\
 15\. Hu, Y., Mai, G., Cundy, C., Choi, K., Lao, N., Liu, W., Lakhanpal, G., **Zhou, R. Z.**, & Joseph, K. (2023): [Geo-knowledge-guided GPT models improve the extraction of location descriptions from disaster-related social media messages](https://www.acsu.buffalo.edu/~yhu42/papers/2023_IJGIS_Geo-GPT.pdf). *International Journal of Geographical Information Science*, 1-30.\
 14\. Sun, K., Hu, Y., Ma, Y., **Zhou, R. Z.**, & Zhu, Y. (2023): [Conflating point of interest (POI) data: A systematic review of matching methods](https://ryan-zhenqi-zhou.github.io/2023_CEUS_POIConflation.pdf). *Computers, Environment and Urban Systems*, 103, 101977.\
