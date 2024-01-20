@@ -34,7 +34,7 @@ experience:
       * **Research Assistant**, Funded by NSF Research Experience for (REG) Grant, May 2022 - Aug 2022
       * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
 
-  - company: I-GUIDE Summer School
+  - company: NSF I-GUIDE Summer School
     company_url: '[https://www.metrodata.cn/](https://iguide.illinois.edu/)'
     # company_logo: org-MDT
     location: Boulder, Colorado, USA
