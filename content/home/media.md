@@ -1,4 +1,4 @@
-![image](https://github.com/ryan-zhenqi-zhou/Ryan-Profile/assets/90157614/517ff667-caa7-4c88-8873-6fe670632ddb)---
+---
 widget: blank
 headless: true
 
