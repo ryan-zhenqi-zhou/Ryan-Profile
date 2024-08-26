@@ -11,6 +11,9 @@ design:
   columns: '2'
 ---
 
+16\. CESASC Scholarship, by Chinese-American Engineers and Scientists Association of Southern California (CESASC), 2024\
+15\. Michael Trapasso Climate Impacts Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
+14\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
 13\. Travel Award, by 2023 NSF I-GUIDE Summer School Program, 2023\
 12\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2023\
 11\. NSF Research Experience for Graduates (REG) Grant, by Human-Environment and Geographical Sciences (HEGS) program in the National Science Foundation (NSF), Student PI, 2022\
