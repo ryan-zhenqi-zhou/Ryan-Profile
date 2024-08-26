@@ -22,6 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - company: Population Health Sciences, Weill Cornell Medical College, Cornell University
+    company_url: 'https://weill.cornell.edu/units/population-health-sciences'
+    # company_logo: org-UB
+    location: New York City, New York State, USA
+    date_start: '2024-08-21'
+    date_end: ''
+    description: |2-
+      * **Research Assistant**, Population Health Sciences, Aug 2024 - Present
+        
+  - company: Global Health, World Bank - IFC
+    company_url: 'https://www.ifc.org/en/home'
+    # company_logo: org-UB
+    location: Washington, DC, USA
+    date_start: '2024-05-28'
+    date_end: ''
+    description: |2-
+      * **Consultant**, Global Health, May 2024 - Present
+      
   - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
     company_url: 'https://geoai.geog.buffalo.edu/'
     # company_logo: org-UB
