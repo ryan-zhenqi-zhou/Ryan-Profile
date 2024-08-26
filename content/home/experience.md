@@ -29,7 +29,7 @@ experience:
     date_start: '2024-08-21'
     date_end: ''
     description: |2-
-      * **Research Assistant**, Population Health Sciences, Aug 2024 - Present
+      * **Research Assistant**, Population Health Sciences
         
   - company: Global Health, World Bank - IFC
     company_url: 'https://www.ifc.org/en/home'
@@ -38,7 +38,7 @@ experience:
     date_start: '2024-05-28'
     date_end: ''
     description: |2-
-      * **Consultant**, Global Health, May 2024 - Present
+      * **Consultant**, Global Health
       
   - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
     company_url: 'https://geoai.geog.buffalo.edu/'
