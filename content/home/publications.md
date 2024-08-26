@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-18\. **Zhou R.Z.**, Hu Y., Zou L., Cai H., & Bing Z. (2024): [Understanding the disparate impacts of the 2021 Texas winter storm and power outages through mobile phone location data and nighttime light images](https://ryan-zhenqi-zhou.github.io/2024_IJDRR_TexasWinterStorm.pdf). *International Journal of Disaster Risk Reduction*, 103, 104339.\
+18\. **Zhou R.Z.**, Hu Y., Zou L., Cai H., & Zhou B. (2024): [Understanding the disparate impacts of the 2021 Texas winter storm and power outages through mobile phone location data and nighttime light images](https://ryan-zhenqi-zhou.github.io/2024_IJDRR_TexasWinterStorm.pdf). *International Journal of Disaster Risk Reduction*, 103, 104339.\
 17\. Tirabassi, J. N., Wang, J., **Zhou, R. Z.**, & Hu, Y. (2024): [Human mobility data demonstrates increase in park visitation since start of COVID-19 pandemic in Buffalo, New York](https://doi.org/10.1016/j.pmedr.2024.102650). *Preventive Medicine Reports*, 102650.\
 16\. Sun K., Hu Y., Lakhanpal, G., & **Zhou, R.Z.** (2023): [Spatial cross-validation for GeoAI](https://www.acsu.buffalo.edu/~yhu42/papers/2023_GeoAIHandbook_SpatialCV.pdf). *Taylor & Francis Group*.\
 15\. Hu, Y., Mai, G., Cundy, C., Choi, K., Lao, N., Liu, W., Lakhanpal, G., **Zhou, R. Z.**, & Joseph, K. (2023): [Geo-knowledge-guided GPT models improve the extraction of location descriptions from disaster-related social media messages](https://www.acsu.buffalo.edu/~yhu42/papers/2023_IJGIS_Geo-GPT.pdf). *International Journal of Geographical Information Science*, 1-30.\
