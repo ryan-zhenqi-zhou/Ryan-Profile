@@ -35,7 +35,7 @@ education:
   - course: M.E. in Landscape Architecture
     institution: Nanjing Forestry University, China
     year: 2021
-  - course: B.A. in Landscape Architecture
+  - course: B.A. in Landscape Gardening
     institution: Zhejiang A&F University, China
     year: 2018
 
