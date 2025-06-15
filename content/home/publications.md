@@ -10,6 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+21\. **Zhou R.Z.**, Hu Y., Sun K., Muldoon R., Clark S., & Joseph K. (2025): [Explainable GeoAI and statistical analysis reveal complementary insights about disparities of 311 help requests during the 2022 Buffalo blizzard](https://ryan-zhenqi-zhou.github.io/Manuscript_BuffaloBlizzard311.pdf). *International Journal of Disaster Risk Reduction*, 105635.\
+20\. Sun K., Hu Y., Joseph K., & **Zhou R.Z.** (2025): [GALLOC: a GeoAnnotator for Labeling LOCation descriptions from disaster-related text messages](https://www.acsu.buffalo.edu/~yhu42/papers/2025_IJGIS_GALLOC.pdf). *International Journal of Geographical Information Science*, 1-31.\
 19\. Sun K., **Zhou R.Z.**, Kim J., & Hu Y. (2024): [PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters](https://arxiv.org/pdf/2409.13947). *Transactions in GIS*.\
 18\. **Zhou R.Z.**, Hu Y., Zou L., Cai H., & Zhou B. (2024): [Understanding the disparate impacts of the 2021 Texas winter storm and power outages through mobile phone location data and nighttime light images](https://ryan-zhenqi-zhou.github.io/2024_IJDRR_TexasWinterStorm.pdf). *International Journal of Disaster Risk Reduction*, 103, 104339.\
 17\. Tirabassi, J. N., Wang, J., **Zhou, R. Z.**, & Hu, Y. (2024): [Human mobility data demonstrates increase in park visitation since start of COVID-19 pandemic in Buffalo, New York](https://doi.org/10.1016/j.pmedr.2024.102650). *Preventive Medicine Reports*, 102650.\
