@@ -11,6 +11,7 @@ design:
   columns: '2'
 ---
 
+8\. Oral presentation (2025): Explainable GeoAI and statistical analysis reveal complementary insights about disparities of 311 help requests during the 2022 Buffalo blizzard, in the *2025 AAG Annual Meeting*, Mar. 26, 2025, Detroit, USA.\
 7\. Poster presentation (2024): Understanding the disparate impacts of the 2021 Texas winter storm and power outages through mobile phone location data and nighttime light images, in the *31st International Conference on Geoinformatics, CPGIS*, Aug. 15, 2024, Toronto, Ontario, Canada.\
 6\. Oral presentation (2023): Improving the 3D representation of rivers in digital elevation models (DEM), in the *2023 NSF I-GUIDE Summer School*, Aug. 11, 2023, Boulder, Colorado, USA.\
 5\. Oral presentation (2023): Understanding spatial impacts of the Texas winter storm in 2021 via mobile phone location data and nighttime light images, in the *2023 AAG Annual Meeting*, Mar. 26, 2023, Denver, Colorado, USA.\
