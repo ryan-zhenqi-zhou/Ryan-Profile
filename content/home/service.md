@@ -20,10 +20,12 @@ design:
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
 * [Scientific Data](https://www.nature.com/sdata/)
 * [Spatial and Spatio-temporal Epidemiology](https://www.sciencedirect.com/journal/spatial-and-spatio-temporal-epidemiology)
+* [International Journal of Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction)
+* [Urban Informatics](https://link.springer.com/journal/44212)
 
 **Volunteer Service**
 * **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA
-* **Faculty Liaison for PhD**, Geography GSA, University at Buffalo - SUNY, Sept. 2022-present, USA
+* **Faculty Liaison for PhD**, Geography GSA, University at Buffalo - SUNY, Sept. 2022-May. 2024, USA
 * **Conference Assistant**, 2023 AAG Annual Meeting, Mar. 23-27, 2023, USA
 
 
