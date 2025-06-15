@@ -11,6 +11,8 @@ design:
   columns: '2'
 ---
 
+7\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2025\
+6\. AAG SAM Student Travel Award, by AAG Spatial Analysis & Modeling Specialty Group (SAM), 2025\
 5\. Michael Trapasso Climate Impacts Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
 4\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
 3\. Travel Award, by 2023 NSF I-GUIDE Summer School Program, 2023\
