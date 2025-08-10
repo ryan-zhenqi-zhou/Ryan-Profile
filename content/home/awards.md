@@ -11,6 +11,7 @@ design:
   columns: '2'
 ---
 
+8\. CaGIS Student Scholarship, by Cartography and Geographic Information Society (CaGIS), 2025\
 7\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2025\
 6\. AAG SAM Student Travel Award, by AAG Spatial Analysis & Modeling Specialty Group (SAM), 2025\
 5\. Michael Trapasso Climate Impacts Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
