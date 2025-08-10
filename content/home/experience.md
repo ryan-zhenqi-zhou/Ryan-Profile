@@ -22,15 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - company: Population Health Sciences, Weill Cornell Medical College, Cornell University
-    company_url: 'https://weill.cornell.edu/units/population-health-sciences'
-    # company_logo: org-UB
-    location: New York City, New York State, USA
-    date_start: '2024-08-21'
-    date_end: ''
-    description: |2-
-      * **Research Assistant**, Population Health Sciences
-        
   - company: Global Health, World Bank - IFC
     company_url: 'https://www.ifc.org/en/home'
     # company_logo: org-UB
@@ -40,14 +31,23 @@ experience:
     description: |2-
       * **Consultant**, Global Health
       
+  - company: Population Health Sciences, Weill Cornell Medical College, Cornell University
+    company_url: 'https://weill.cornell.edu/units/population-health-sciences'
+    # company_logo: org-UB
+    location: New York City, New York State, USA
+    date_start: '2024-08-21'
+    date_end: '2025-06-15'
+    description: |2-
+      * **Research Assistant**, Population Health Sciences
+      
   - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
     company_url: 'https://geoai.geog.buffalo.edu/'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2021-08-15'
-    date_end: ''
+    date_end: '2024-08-15'
     description: |2-
-      * **Research Assistant**, GeoAI Lab, May 2023 - Present
+      * **Research Assistant**, GeoAI Lab, May 2023 - Aug 2024
       * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - May 2023
       * **Research Assistant**, Funded by NSF Research Experience for (REG) Grant, May 2022 - Aug 2022
       * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
