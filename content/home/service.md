@@ -22,6 +22,7 @@ design:
 * [Spatial and Spatio-temporal Epidemiology](https://www.sciencedirect.com/journal/spatial-and-spatio-temporal-epidemiology)
 * [International Journal of Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction)
 * [Urban Informatics](https://link.springer.com/journal/44212)
+* [iScience](https://www.cell.com/iscience/home)
 
 **Volunteer Service**
 * **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA
