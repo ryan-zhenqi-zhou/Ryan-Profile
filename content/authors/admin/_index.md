@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. in Geographic Information System
     institution: University at Buffalo - SUNY, USA
-    year: 2025 (expected)
+    year: 2026
   - course: M.E. in Landscape Architecture
     institution: Nanjing Forestry University, China
     year: 2021
