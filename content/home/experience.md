@@ -49,7 +49,7 @@ experience:
     description: |2-
       * **Research Assistant**, GeoAI Lab, May 2023 - Aug 2024
       * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - May 2023
-      * **Research Assistant**, Funded by NSF Research Experience for (REG) Grant, May 2022 - Aug 2022
+      * **Research Assistant**, Funded by NSF Research Experience for (REG) Award, May 2022 - Aug 2022
       * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
 
   - company: NSF I-GUIDE Summer School
