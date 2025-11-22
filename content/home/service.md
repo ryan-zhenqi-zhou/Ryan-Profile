@@ -23,9 +23,12 @@ design:
 * [International Journal of Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction)
 * [Urban Informatics](https://link.springer.com/journal/44212)
 * [iScience](https://www.cell.com/iscience/home)
+* [PLOS One](https://journals.plos.org/plosone/)
+* [International Journal of Geographical Information Science](https://www.tandfonline.com/toc/tgis20/current)
 
 **Volunteer Service**
-* **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA
+* **Co-host**, GeoAI for Disaster Resilience session at AAG, Mar. 26, 2025, USA
+* **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-Jul. 2024, USA
 * **Faculty Liaison for PhD**, Geography GSA, University at Buffalo - SUNY, Sept. 2022-May. 2024, USA
 * **Conference Assistant**, 2023 AAG Annual Meeting, Mar. 23-27, 2023, USA
 
