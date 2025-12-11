@@ -25,6 +25,7 @@ design:
 * [iScience](https://www.cell.com/iscience/home)
 * [PLOS One](https://journals.plos.org/plosone/)
 * [International Journal of Geographical Information Science](https://www.tandfonline.com/toc/tgis20/current)
+* [Big Earth Data](https://www.tandfonline.com/journals/tbed20)
 
 **Volunteer Service**
 * **Co-host**, GeoAI for Disaster Resilience session at AAG, Mar. 26, 2025, USA
