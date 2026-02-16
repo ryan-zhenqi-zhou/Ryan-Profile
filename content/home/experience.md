@@ -66,7 +66,7 @@ experience:
     # company_logo: org-MDT
     location: Shanghai, China
     date_start: '2020-08-01'
-    date_end: '2020-10-01'
+    date_end: '2020-09-29'
     description: |2-
         * **Spatial Data Analyst (Intern)**, Project: Assessment of the land used for educational facilities in Pudong, Shanghai
 
