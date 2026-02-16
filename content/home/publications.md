@@ -10,6 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+24\. **Zhou R.Z.**, Hu Y., Zhang L., Muldoon R., Clark S., & Joseph K. (2026): Assessing spatial disparities of human mobility disruptions during the 2022 Buffalo blizzard through mobile phone location data and transformer model. Ongoing.\
 23\. Kim, J., Hu, Y., Elhami-Khorasani, N., Sun, K., & **Zhou, R. Z.** (2025): [Assessment of deep learning models integrated with weather and environmental variables for wildfire spread prediction and a case study of the 2023 Maui fires](https://arxiv.org/pdf/2509.21327). *Natural Hazards*, accepted.\
 22\. Chen, Y., Nelson, J. K., Zhou, B., **Zhou, R. Z.**, Ye, S., Liu, H., Gu, Z., Kar, A., Kwon, H., Chen, P., Sun, M., & Kang, Y. (2025): [Where are GIScience faculty hired from? Analyzing faculty mobility and research themes through hiring networks](https://doi.org/10.1080/15230406.2025.2567564). *Cartography and Geographic Information Science*, 1-25.\
 21\. **Zhou R.Z.**, Hu Y., Sun K., Muldoon R., Clark S., & Joseph K. (2025): [Explainable GeoAI and statistical analysis reveal complementary insights about disparities of 311 help requests during the 2022 Buffalo blizzard](https://ryan-zhenqi-zhou.github.io/2025_IJDRR_BuffaloBlizzard311.pdf). *International Journal of Disaster Risk Reduction*, 105635.\
