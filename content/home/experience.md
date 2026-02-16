@@ -40,7 +40,7 @@ experience:
     description: |2-
       * **Research Assistant**, GeoAI Lab, May 2023 - Present
       * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - May 2023
-      * **Research Assistant**, Funded by NSF Research Experience for (REG) Award, May 2022 - Aug 2022
+      * **Research Assistant**, NSF Research Experience for Graduates (REG) Award, Student PI, May 2022 - Aug 2022
       * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
       
   - company: Population Health Sciences, Weill Cornell Medical College, Cornell University
