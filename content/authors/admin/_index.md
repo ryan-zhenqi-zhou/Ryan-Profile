@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Geographic Information System
+  - course: Ph.D. in GIScience
     institution: University at Buffalo - SUNY, USA
     year: 2026
   - course: M.E. in Landscape Architecture
