@@ -74,6 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-Ryan Zhenqi Zhou (Zhenqi Zhou) is a Ph.D. Candidate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), Research Assistant at [GeoAI@UB Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu. Research Assistant at [Weill Cornell Medical College of Cornell University](https://weill.cornell.edu/units/population-health-sciences), Consultant at [World Bank-IFC](https://www.ifc.org/en/home). He is interested in GeoAI, Human Mobility, Disaster Resilience, Public Health, and Urban Analytics. Apart from studying, he likes coffee, strength training, and soccer.
+Ryan Zhenqi Zhou (Zhenqi Zhou) is a Ph.D. Candidate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), Research Assistant at [GeoAI@UB Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu, Research Assistant at [Weill Cornell Medical College of Cornell University](https://weill.cornell.edu/units/population-health-sciences), and Consultant at [World Bank-IFC](https://www.ifc.org/en/home). He is interested in GeoAI, Human Mobility, Disaster Resilience, Public Health, and Urban Analytics. Apart from studying, he likes coffee, strength training, and soccer.
 
 Download my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan-Zhou-CV.pdf).
