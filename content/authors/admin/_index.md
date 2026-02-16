@@ -47,9 +47,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/RyanZhenqiZhou
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Rn0GtnIAAAAJ
@@ -59,15 +56,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ryan-zhenqi-zhou
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Ryan-Zhou-5
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7182-140X
-- icon: academia
-  icon_pack: ai
-  link: https://sunybuffalo.academia.edu/RyanZhenqiZhou
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
