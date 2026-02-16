@@ -30,6 +30,18 @@ experience:
     date_end: ''
     description: |2-
       * **Geospatial Data Scientist | Consultant**
+   
+  - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
+    company_url: 'https://geoai.geog.buffalo.edu/'
+    # company_logo: org-UB
+    location: Buffalo, New York State, USA
+    date_start: '2021-08-15'
+    date_end: ''
+    description: |2-
+      * **Research Assistant**, GeoAI Lab, May 2023 - Present
+      * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - May 2023
+      * **Research Assistant**, Funded by NSF Research Experience for (REG) Award, May 2022 - Aug 2022
+      * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
       
   - company: Population Health Sciences, Weill Cornell Medical College, Cornell University
     company_url: 'https://weill.cornell.edu/units/population-health-sciences'
@@ -39,18 +51,6 @@ experience:
     date_end: '2025-06-15'
     description: |2-
       * **Research Assistant**, Population Health Sciences
-      
-  - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
-    company_url: 'https://geoai.geog.buffalo.edu/'
-    # company_logo: org-UB
-    location: Buffalo, New York State, USA
-    date_start: '2021-08-15'
-    date_end: '2024-08-15'
-    description: |2-
-      * **Research Assistant**, GeoAI Lab, May 2023 - Aug 2024
-      * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - May 2023
-      * **Research Assistant**, Funded by NSF Research Experience for (REG) Award, May 2022 - Aug 2022
-      * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
 
   - company: NSF I-GUIDE Summer School
     company_url: 'https://iguide.illinois.edu/'
