@@ -24,7 +24,7 @@ design:
 4\. Oral presentation: Old community renovation based on data analysis, in the *9th Summer Workshop DigitalFUTURES YOUNG Forum 2019—Architectural Intelligence held at the School of Architecture and Urban Planning (CAUP), Tongji University*, Jun. 30 to Jul. 6, 2019, Shanghai, China.\
 3\. Poster presentation: Intelligence and Strategy of Urban Deduction—Spark Planning (UrbanGAN), in the *9th Summer Workshop DigitalFUTURES SHANGHAI 2019—Architectural Intelligence held at the School of Architecture and Urban Planning (CAUP), Tongji University*, Jun. 30 - Jul. 6, 2019, Shanghai, China (Co-Author).\
 2\. Oral presentation: Social Loop, loops to connect city and communities, in the *International Digital Urban Design Week held by International Society of City & Regional Planners (ISOCARP) and Southeast University*, Jun. 10-15, 2019, Nanjing, Jiangsu, China.\
-1\. Poster presentation: The urban community agriculture practices in Chinese cities: case studies in Nanjing, in the *15th International Conference on Urban Health*, Nov. 27-30, 2018, Kampala, Uganda, Africa (Co-Author).\
+1\. Poster presentation: The urban community agriculture practices in Chinese cities: case studies in Nanjing, in the *15th International Conference on Urban Health*, Nov. 27-30, 2018, Kampala, Uganda, Africa (Co-Author).
 
 
 
