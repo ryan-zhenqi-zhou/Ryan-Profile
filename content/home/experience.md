@@ -29,7 +29,7 @@ experience:
     date_start: '2024-05-28'
     date_end: ''
     description: |2-
-      * **Geospatial Data Scientist | Consultant**
+      * **Geospatial Data Scientist | Consultant**, Research Project: A geospatial analysis of SafeCare healthcare facilities characteristics, climate risks, and economic and demographic factors in Kenya and Tanzania
    
   - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
     company_url: 'https://geoai.geog.buffalo.edu/'
@@ -50,7 +50,7 @@ experience:
     date_start: '2024-08-21'
     date_end: '2025-06-15'
     description: |2-
-      * **Research Assistant**, Population Health Sciences
+      * **Research Assistant**, Research Project: Using machine learning to identify social risk factors of hypertension and diabetes in New York City: evidence to support the HealthyNYC initiative
 
   - company: NSF I-GUIDE Summer School
     company_url: 'https://iguide.illinois.edu/'
@@ -59,7 +59,7 @@ experience:
     date_start: '2023-08-07'
     date_end: '2023-08-11'
     description: |2-
-        * **Research Fellow**, Project: Improving the 3D Representation of Rivers in Digital Elevation Models (DEM)
+        * **Research Fellow**, Research Project: Improving the 3D representation of rivers in digital elevation models (DEM)
         
   - company: MetroDataTech (MDT)
     company_url: 'https://www.metrodata.cn/'
