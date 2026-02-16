@@ -14,7 +14,7 @@ design:
 15\. CaGIS Student Scholarship, by Cartography and Geographic Information Society (CaGIS), 2025\
 14\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2025\
 13\. AAG SAM Student Travel Award, by AAG Spatial Analysis & Modeling Specialty Group (SAM), 2025\
-12\. CESASC Scholarship, by Chinese-American Engineers and Scientists Association of Southern California (CESASC)\
+12\. CESASC Scholarship, by Chinese-American Engineers and Scientists Association of Southern California (CESASC), 2024\
 11\. Michael Trapasso Climate Impacts Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
 10\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
 9\. Travel Award, by 2023 NSF I-GUIDE Summer School Program, 2023\
