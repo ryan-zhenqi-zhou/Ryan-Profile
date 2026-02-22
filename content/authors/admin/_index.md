@@ -24,7 +24,7 @@ interests:
 - Human Mobility
 - Disaster Resilience
 - Public Health
-- Urban Analytics
+- Spatial Data Science
 
 # Education to show in About widget
 education:
@@ -74,6 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-Ryan Zhenqi Zhou (Zhenqi Zhou) is a Ph.D. Candidate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), Research Assistant at [GeoAI@UB Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu, Research Assistant at [Weill Cornell Medical College of Cornell University](https://weill.cornell.edu/units/population-health-sciences), and Consultant at [World Bank-IFC](https://www.ifc.org/en/home). He is interested in GeoAI, Human Mobility, Disaster Resilience, Public Health, and Urban Analytics. Apart from studying, he likes coffee, strength training, and soccer.
+My name is Ryan Zhenqi Zhou (Zhenqi Zhou). I am a Ph.D. Candidate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/) and  a Research Assistant at the [GeoAI@UB Lab](https://geoai.geog.buffalo.edu/), supervised by [Dr. Yingjie Hu](https://www.acsu.buffalo.edu/~yhu42/). I am also a Consultant at the [World Bank-IFC](https://www.ifc.org/en/home) and a former Research Assistant at [Weill Cornell Medical College of Cornell University](https://weill.cornell.edu/units/population-health-sciences). My research areas include Geospatial Artificial Intelligence (GeoAI), Human Mobility, Disaster Resilience, Public Health, and Spatial Data Science. I hope my research contributes to meaningful, practical solutions that benefit communities. Currently, I am actively seeking postdoctoral opportunities.
 
 Download my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan-Zhou-CV.pdf).
