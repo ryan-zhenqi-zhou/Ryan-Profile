@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
+    company_url: 'https://geoai.geog.buffalo.edu/'
+    # company_logo: org-UB
+    location: Buffalo, New York State, USA
+    date_start: '2021-08-15'
+    date_end: ''
+    description: |2-
+      * **Research Assistant**, GeoAI Lab, I conduct research on geospatial data science and AI with applications in the areas of disaster resilience (e.g., winter storms) and public health (e.g., obesity estimation), May 2023 - Present
+      * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Student Evaluation: 4.75/5 (Gold Standard), Aug 2022 - May 2023
+  
   - company: World Bank - IFC
     company_url: 'https://www.ifc.org/en/home'
     # company_logo: org-UB
@@ -30,18 +40,6 @@ experience:
     date_end: ''
     description: |2-
       * **Geospatial Data Scientist | Consultant**, Research Project: A geospatial analysis of SafeCare healthcare facilities characteristics, climate risks, and economic and demographic factors in Kenya and Tanzania
-   
-  - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
-    company_url: 'https://geoai.geog.buffalo.edu/'
-    # company_logo: org-UB
-    location: Buffalo, New York State, USA
-    date_start: '2021-08-15'
-    date_end: ''
-    description: |2-
-      * **Research Assistant**, GeoAI Lab, May 2023 - Present
-      * **Teaching Assistant**, GEO 481/506 Geographical Information Systems Lab, Aug 2022 - May 2023
-      * **Research Assistant**, NSF Research Experience for Graduates (REG) Award, Student PI, May 2022 - Aug 2022
-      * **Research Assistant**, GeoAI Lab, Aug 2021 - May 2022
       
   - company: Population Health Sciences, Weill Cornell Medical College, Cornell University
     company_url: 'https://weill.cornell.edu/units/population-health-sciences'
