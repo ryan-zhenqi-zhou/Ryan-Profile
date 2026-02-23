@@ -62,7 +62,7 @@ experience:
     date_start: '2023-08-07'
     date_end: '2023-08-11'
     description: |2-
-        * **Research Fellow**\
+        * **Student Fellow**\
           Research Project: Improving the 3D representation of rivers in digital elevation models (DEM)
         
   - company: MetroDataTech (MDT)
