@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...  'Accomplish&shy;ments'
 title: Awards & Grants
 subtitle:
-weight: 70  # section position on page
+weight: 20  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
