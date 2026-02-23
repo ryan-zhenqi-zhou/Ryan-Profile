@@ -20,7 +20,7 @@ design:
 7\. Student Fellow, by *2023 NSF I-GUIDE Summer School Program*, 2023\
 6\. Hugh W. Calkins Applied GIS Award, by *Department of Geography at the University at Buffalo - SUNY*, 2023\
 5\. Outstanding Graduate Award, by *Nanjing Forestry University*, 2021\
-4\. National Scholarship Award, by *Department of Education*, China, 2020\
+4\. National Scholarship Award, by *Department of Education, China*, 2020\
 3\. Merit Student Award, by *Nanjing Forestry University*, 2020\
 2\. First-class Scholarship Award, by *Nanjing Forestry University*, 2020\
 1\. Best Project Award, International Digital Urban Design Week held by *International Society of City & Regional Planners (ISOCARP) and Southeast University* in Nanjing, 2019
