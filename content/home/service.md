@@ -14,7 +14,7 @@ design:
 **Peer Reviewer for Academic Journals**
 * [Computational Urban Science](https://www.springer.com/journal/43762)
 * [Environment and Planning B: Urban Analytics and City Science](https://journals.sagepub.com/home/epb)
-* [Journal of Map](https://www.tandfonline.com/journals/tjom20)
+* [Journal of Maps](https://www.tandfonline.com/journals/tjom20)
 * [Royal Society Open Science](https://royalsocietypublishing.org/journal/rsos)
 * [International Journal of Digital Earth](https://www.tandfonline.com/journals/tjde20)
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
