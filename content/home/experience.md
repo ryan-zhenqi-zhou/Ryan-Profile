@@ -29,7 +29,7 @@ experience:
     date_start: '2021-08-15'
     date_end: ''
     description: |2-
-      * **Research Assistant**, aug 2021 - Present\
+      * **Research Assistant**, Aug 2021 - Present\
         I conduct research on geospatial data science and AI with applications in the areas of disaster resilience (e.g., winter storms) and public health (e.g., obesity estimation)
       * **Teaching Assistant**, Aug 2022 - May 2023\
         GEO 481/506 Geographical Information Systems Lab\
