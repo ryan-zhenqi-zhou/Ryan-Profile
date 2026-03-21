@@ -23,7 +23,7 @@ interests:
 - GeoAI
 - Human Mobility
 - Disaster Resilience
-- Public Health
+- Population Health
 - Spatial Data Science
 
 # Education to show in About widget
