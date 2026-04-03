@@ -28,7 +28,7 @@ design:
 * [Big Earth Data](https://www.tandfonline.com/journals/tbed20)
 
 **Volunteer Service**
-* Co-host, GeoAI for Disaster Resilience session at AAG, Mar. 26, 2025, USA
+* Co-organizer, GeoAI for Disaster Resilience session at AAG, Mar. 26, 2025, USA
 * Host of GISalon, [GISphere](https://gisphere.github.io/) (International Student Academic Organization), Oct. 2021-Jul. 2024, USA
 * Faculty Liaison for PhD, Geography GSA, University at Buffalo - SUNY, Sept. 2022-May. 2024, USA
 * Conference Assistant, 2024 CESASC 62nd Annual Convention, May 4, 2024, USA
