@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-
+14\. Excellence in Research, Scholarship and Creativity Award, by *University at Buffalo - SUNY*, 2026\
 13\. CaGIS Student Scholarship (1-3 awardees nationwide per year), by *Cartography and Geographic Information Society (CaGIS)*, [Media Report](https://www.buffalo.edu/ubnow/stories/2025/09/zhou-scholarship-blizzard.html), 2025\
 12\. Hugh W. Calkins Applied GIS Award, by *Department of Geography at the University at Buffalo - SUNY*, 2025\
 11\. AAG SAM Student Travel Award, by *AAG Spatial Analysis & Modeling Specialty Group (SAM)*, 2025\
