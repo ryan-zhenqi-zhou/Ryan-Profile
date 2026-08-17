@@ -26,8 +26,10 @@ design:
 * [PLOS One](https://journals.plos.org/plosone/)
 * [International Journal of Geographical Information Science](https://www.tandfonline.com/toc/tgis20/current)
 * [Big Earth Data](https://www.tandfonline.com/journals/tbed20)
+* [International Journal of Health Geographics](https://link.springer.com/journal/12942)
 
 **Volunteer Service**
+* CPGIS Website and Email List Committee member, Apr. 2026-Present, USA
 * Co-organizer, GeoAI for Disaster Resilience session at AAG, Mar. 26, 2025, USA
 * Host of GISalon, [GISphere](https://gisphere.github.io/) (International Student Academic Organization), Oct. 2021-Jul. 2024, USA
 * Faculty Liaison for PhD, Geography GSA, University at Buffalo - SUNY, Sept. 2022-May. 2024, USA
