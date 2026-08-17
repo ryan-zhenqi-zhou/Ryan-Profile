@@ -22,25 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - company: Yale Center for Geospatial Solutions
+    company_url: 'https://geospatial.yale.edu/'
+    # company_logo: org-UB
+    location: New Haven, CT, USA
+    date_start: '2026-08-03'
+    date_end: ''
+    description: |2-
+      * **Research Data Specialist**\
+        I apply geospatial data science and AI to interdisciplinary research addressing environmental and societal challenges
+
   - company: GeoAI Lab, Department of Geography, University at Buffalo - SUNY
     company_url: 'https://geoai.geog.buffalo.edu/'
     # company_logo: org-UB
     location: Buffalo, New York State, USA
     date_start: '2021-08-15'
-    date_end: ''
+    date_end: '2026-05-15'
     description: |2-
-      * **Research Assistant**, Aug 2021 - Present\
+      * **Research Assistant**, Aug 2021 - Nay 2026\
         I conduct research on geospatial data science and AI with applications in the areas of disaster resilience (e.g., winter storms) and public health (e.g., obesity estimation)
       * **Teaching Assistant**, Aug 2022 - May 2023\
         GEO 481/506 Geographical Information Systems Lab\
-        Student Evaluation: 4.75/5 (Gold Standard)
+        Student Evaluation: 4.75/5
   
   - company: World Bank - IFC
     company_url: 'https://www.ifc.org/en/home'
     # company_logo: org-UB
     location: Washington, DC, USA
     date_start: '2024-05-28'
-    date_end: ''
+    date_end: '2026-05-13'
     description: |2-
       * **Geospatial Data Scientist | Consultant**\
         Research Project: A geospatial analysis of SafeCare healthcare facilities characteristics, climate risks, and economic and demographic factors in Kenya and Tanzania
@@ -50,7 +60,7 @@ experience:
     # company_logo: org-UB
     location: New York City, New York State, USA
     date_start: '2024-08-21'
-    date_end: '2025-06-15'
+    date_end: '2025-05-15'
     description: |2-
       * **Research Assistant**\
         Research Project: Using machine learning to identify social risk factors of hypertension and diabetes in New York City: evidence to support the HealthyNYC initiative
