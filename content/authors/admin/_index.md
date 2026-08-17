@@ -6,30 +6,30 @@ title: Ryan Zhenqi Zhou
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate, Research Assistant
+role: Research Data Specialist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Geography
-  url: https://www.buffalo.edu/cas/geography.html
-- name: University at Buffalo - SUNY
-  url: https://www.buffalo.edu/
+- name: Yale Center for Geospatial Solutions
+  url: https://geospatial.yale.edu/
+- name: Yale University
+  url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include GEOAI, Disaster Resilience, Public Health, Urban Analytics, and Human Mobility
+bio: My research interests include GEOAI, Geospatial Data Science, Disaster Resilience, Population Health, and Human Mobility
 
 # Interests to show in About widget
 interests:
 - GeoAI
-- Human Mobility
+- Geospatial Data Science
 - Disaster Resilience
 - Population Health
-- Spatial Data Science
+- Human Mobility
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in GIScience
+  - course: Ph.D. in GIScience and GeoAI
     institution: University at Buffalo - SUNY, USA
     year: 2026
   - course: M.E. in Landscape Architecture
@@ -74,6 +74,8 @@ email: ""
 highlight_name: true
 ---
 
-My name is Ryan Zhenqi Zhou (Zhenqi Zhou). I am a Ph.D. Candidate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/) and  a Research Assistant at the [GeoAI@UB Lab](https://geoai.geog.buffalo.edu/), supervised by [Dr. Yingjie Hu](https://www.acsu.buffalo.edu/~yhu42/). I am also a Consultant at the [World Bank-IFC](https://www.ifc.org/en/home) and a former Research Assistant in the [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences) at [Weill Cornell Medical College of Cornell University](https://weill.cornell.edu/). My research areas include Geospatial Artificial Intelligence (GeoAI), Human Mobility, Disaster Resilience, Population Health, and Spatial Data Science. I hope my research contributes to meaningful and practical solutions that benefit communities. 
+My name is Ryan Zhenqi Zhou (Zhenqi Zhou). I am the Research Data Specialist at the [Yale Center for Geospatial Solutions](https://geospatial.yale.edu/). I apply geospatial data science and AI to interdisciplinary research addressing environmental and societal challenges. My research interests include Geospatial Artificial Intelligence (GeoAI), Geospatial Data Science, Disaster Resilience, Population Health, and Human Mobility.
 
-I am currently seeking postdoctoral opportunities. View my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan-Zhou-CV.pdf).
+Before joining [Yale](https://www.yale.edu/), I earned my PhD in Geography from the [State University of New York at Buffalo](https://www.buffalo.edu/), where I applied geospatial data science and AI to research on disaster resilience (e.g., winter storms) and population health (e.g., obesity estimation). I also worked as a consultant for the [World Bank Group’s International Finance Corporation](https://www.ifc.org/en/home), applying geospatial analysis and AI to projects in healthcare access, climate resilience, tourism, and economic development in low- and middle-income countries. In addition, I served as a research assistant at [Weill Cornell Medicine](https://weill.cornell.edu/), where I worked on population health research. Outside of work, I enjoy playing soccer, strength training, and exploring coffee brewing.
+
+View my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan-Zhou-CV.pdf).
